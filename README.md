@@ -4,4 +4,4 @@ This is the page where everyone can share their thoughts about the quiz problems
 
 ## Catelogue
 
-- [Lecture 1-2](./Lecture 1-2.md)
+- [Lecture 1-2](./Power-system-dynamics-stability-and-control/Lecture 1-2.md)
