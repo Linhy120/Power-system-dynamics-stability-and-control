@@ -10,7 +10,7 @@ Because the AC grid is operating at a fix frequency.
 
 Voltage control is essential to maintain the reactive power in the system within the controllable region. Maintaining the voltage within the limits is also necessary for the insulation of the devices.
 
-## 3. Which of voltage and frequency control can be influenced by the network?
+### 3. Which of voltage and frequency control can be influenced by the network?
 
 Voltage control. To control the frequency, it requires the injection of the active power, which is not possible by changing the network.
 
