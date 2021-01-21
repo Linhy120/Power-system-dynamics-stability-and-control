@@ -5,3 +5,63 @@ This is the page where everyone can share their thoughts about the quiz problems
 ## Catelogue
 
 - [Lecture 1-2](/Lecture%201-2.md)
+
+## Why am I doing this
+
+I used to benefit a lot from the discussions with my classmates during my undergraduate. Although we are now working remotely, I am trying to figure out a way to provide academic discussions among us. 
+
+The quiz questions of each lecture are not accompanied with standard answers. I will try to update a file containing the answers orally provided by Prof Pal and it is open for everyone to raise an objection. The answers might be incorrect/inaccurate/insufficient, so it is important that we try to improve them together. I am looking forward to your suggestions, ideas and any other participations.
+
+The reasons why I choose Github is that it provides
+
+- easily formatted documents in Markdown
+
+- the chance to peer-review the changes before they are posted to all participants
+
+- website-based operations
+
+Github might be unfamilir to you, I have considered several alternatives, including
+
+- shared file in Teams (easy to edit but hard to track the changes)
+
+- SharePoint pages in Teams
+
+- common notebook in Onenote
+
+- ...
+
+Feel free to drop me an email or direct message to share your thoughts. I will be more than happy to know what you think.
+
+## How to participate
+
+Currently this repository is set to public but I will to set it as private in several weeks, mainly considering easier management and privacy issues. When it is set to private, you will need a Github account so that I can set you as a contributor to let you access all the contents.
+
+Following are several steps to propose a change:
+
+1. When you are viewing the documents, the pencil icon on the upper right corner allows you to make any edition.
+![edit file](\figures\edit-file.png)
+
+2. After the changes are made, at the end of the page you can write some introductions of the changes. It is very **IMPORTANT** to create a new branch, which allows others to review the changes you make before we publish them.
+![commit changes](\figures\commit-change.png)
+
+3. After the changes are proposed, there will be another page where you can write further descriptions and assign reviews (both optional). The final step is to click "Create pull request". After that, the pull request will be activated and your reviewers will receive an email notice. Once they confirm that the changes are reasonable, these changes will be merged to the main branch and published to all participants.
+![pull request](\figures\pull-request.png)
+
+4. If you have any other questions or ideas that you want to discuss with others on Github, feel free to raise an issue and I will put all valuable issues into a document and publish it from time to time.
+![raise an issue](\figures\issues.png)
+
+## Useful links
+
+### Markdown Tutorials
+
+- in [English](https://www.markdownguide.org/)
+
+- in [Chinese](https://www.runoob.com/markdown/md-tutorial.html)
+
+### Latex Tutorials
+
+- in [English](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+- in [Chinese](https://zhuanlan.zhihu.com/p/109446026)
+
+- [Online editor](https://www.overleaf.com/)
