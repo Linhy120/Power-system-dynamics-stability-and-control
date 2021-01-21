@@ -30,7 +30,7 @@ All power plants that utilize thermal power.
 
 Trasient stability. Transient stability problem usually arises when the output power of the generator drops, while subsynchronous resonance usually comes from network side, especially which is series compensated.
 
-### 8. What is of prime importance in small signal stability studies?
+### 8. What is of prime importance in small signal stability studies? 
 
 Dumping is a critical parameter in such studies.
 
