@@ -34,7 +34,7 @@ Feel free to drop me an email or direct message to share your thoughts. I will b
 
 ## How to participate
 
-Currently this repository is set to public but I will to set it as private in several weeks, mainly considering easier management and privacy issues. When it is set to private, you will need a Github account so that I can set you as a contributor to let you access all the contents.
+Currently this repository is set to public but I will to set it as private in several weeks, mainly considering easier management and privacy issues. When it is set to private, you will need a Github account so that I will be able to invite you as a collaborator to let you access all the contents.
 
 Following are several steps to propose a change:
 
@@ -47,10 +47,16 @@ Following are several steps to propose a change:
 3. After the changes are proposed, there will be another page where you can write further descriptions and assign reviews (both optional). The final step is to click "Create pull request". After that, the pull request will be activated and your reviewers will receive an email notice. Once they confirm that the changes are reasonable, these changes will be merged to the main branch and published to all participants.
 ![pull request](https://github.com/LHYi/Power-system-dynamics-stability-and-control/blob/main/figures/pull-request.png)
 
-4. If you have any other questions or ideas that you want to discuss with others on Github, feel free to raise an issue and I will put all valuable issues into a document and publish it from time to time.
+4. If you have any other questions or ideas that you want to discuss with others on Github, feel free to raise an issue or open a discussion and I will put all valuable issues into a document and publish it from time to time.
 ![raise an issue](https://github.com/LHYi/Power-system-dynamics-stability-and-control/blob/main/figures/issues.png)
 
 ## Useful links
+
+### Github
+
+- [Hello World](https://guides.github.com/activities/hello-world/):get started in 10 minutes
+
+- [Github Guide](https://guides.github.com/)
 
 ### Markdown Tutorials
 
