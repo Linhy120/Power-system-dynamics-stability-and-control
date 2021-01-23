@@ -53,7 +53,7 @@ You will need a Github account to do so. If you already have one, following are 
 
 4. If you have any other questions or ideas that you want to discuss with others on Github, feel free to raise an issue or start a discussion and I will put all valuable issues into a document and publish it from time to time.
 ![raise an issue](https://github.com/LHYi/Power-system-dynamics-stability-and-control/blob/main/figures/issues.png)
-![start a discussion](https://github.com/LHYi/Power-system-dynamics-stability-and-control/blob/main/figures/discusssion.png)
+![start a discussion](https://github.com/LHYi/Power-system-dynamics-stability-and-control/blob/main/figures/discussion.png)
 
 You can also follow the steps in the 10 minutes Github guide to make your change, just make sure you are editing in a new branch, so we can do the peer review and discussion before publish. Feel free to contact me if you meet any technical issues.
 
