@@ -6,6 +6,8 @@ This is the page where everyone can share their thoughts about the quiz problems
 
 - [Lecture 1-2](/Lecture%201-2.md)
 
+- [Lecture 3-4](/Lecture%203-4.md)
+
 ## Why am I doing this
 
 I used to benefit a lot from the discussions with my classmates during my undergraduate. Although we are now working remotely, I am trying to figure out a way to provide academic discussions among us.
