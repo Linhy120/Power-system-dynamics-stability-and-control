@@ -40,6 +40,8 @@ I am looking forward to your suggestions, ideas and any other participations. Fe
 
 Currently this repository is set to public but I will to set it as private in several weeks, mainly considering easier management and privacy issues. When it is set to private, you will need a Github account so that I can invite you as a collaborator to let you access all the contents.
 
+You may also make use of this [webpage](https://hongyili.net/Power-system-dynamics-stability-and-control/)
+
 ### To propose a change
 
 You will need a Github account to do so. If you are not a collaborator of this repository, all the changes you make will be in a new branch. All you need to do is to edit the files --> propose a change --> create pull request.
