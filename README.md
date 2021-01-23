@@ -54,7 +54,7 @@ Following are several steps to propose a change:
 
 ### Github
 
-- [Hello World](https://guides.github.com/activities/hello-world/):get started in 10 minutes
+- [Hello World](https://guides.github.com/activities/hello-world/): get started in 10 minutes
 
 - [Github Guide](https://guides.github.com/)
 
