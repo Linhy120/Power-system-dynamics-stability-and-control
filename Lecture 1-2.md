@@ -1,5 +1,7 @@
 # Lecture 1-2
 
+Contributor: Hongyi
+
 ## Quesions
 
 ### 1. Why does generator operate at synchronous speed?
