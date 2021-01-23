@@ -42,7 +42,9 @@ Currently this repository is set to public but I will to set it as private in se
 
 ### To propose a change
 
-You will need a Github account to do so. If you already have one, following are several steps to propose a change:
+You will need a Github account to do so. If you are not a collaborator of this repository, all the changes you make will be in a new branch. All you need to do is to edit the files --> propose a change --> create pull request.
+
+I personally suggest you to become a collaborator, which allows you to be deeper involved in this project. Feel free to send me your username or email so that I can send you an invitation link. If you are a collaborator, following are several steps to propose a change:
 
 1. When you are viewing the documents, the pencil icon on the upper right corner allows you to make any edition.
 ![edit file](https://github.com/LHYi/Power-system-dynamics-stability-and-control/blob/main/figures/edit-file.png)
