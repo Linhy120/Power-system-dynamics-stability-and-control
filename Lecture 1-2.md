@@ -1,6 +1,6 @@
 # Lecture 1-2
 
-Contributor: Hongyi
+Contributor: Hongyi, Chengqi
 
 ## Quesions
 
