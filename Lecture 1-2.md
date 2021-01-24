@@ -34,5 +34,5 @@ Trasient stability. Transient stability problem usually arises when the output p
 
 ### 8. What is of prime importance in small signal stability studies? 
 
-Dumping is a critical parameter in such studies.
+Damping is a critical parameter in such studies.
 
